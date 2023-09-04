@@ -1,0 +1,432 @@
+"","term_name","p_value"
+"1","nucleic acid metabolic process",5.68489381540552e-164
+"2","nucleobase-containing compound metabolic process",2.42688984032365e-146
+"3","heterocycle metabolic process",3.48292754585133e-138
+"4","cellular nitrogen compound metabolic process",5.57183601536999e-136
+"5","cellular aromatic compound metabolic process",9.58995074366807e-135
+"6","organic cyclic compound metabolic process",6.81948793138957e-130
+"7","RNA metabolic process",2.13701812318657e-126
+"8","gene expression",3.09120671176238e-115
+"9","macromolecule metabolic process",5.32879344745288e-84
+"10","cellular metabolic process",5.03332723293095e-80
+"11","RNA processing",3.02435323073177e-71
+"12","regulation of macromolecule metabolic process",1.21163993253741e-69
+"13","regulation of gene expression",1.82943189691895e-66
+"14","nitrogen compound metabolic process",3.40897456439002e-65
+"15","regulation of nucleobase-containing compound metabolic process",5.83932774636619e-64
+"16","regulation of metabolic process",2.8258528154608e-63
+"17","regulation of cellular metabolic process",1.16325880287893e-59
+"18","regulation of nitrogen compound metabolic process",7.41785810811127e-58
+"19","regulation of primary metabolic process",2.26687649648624e-56
+"20","cell cycle",9.96831364003045e-56
+"21","regulation of RNA metabolic process",2.73950388357501e-55
+"22","primary metabolic process",4.67981440228378e-55
+"23","organic substance metabolic process",1.43315610175511e-52
+"24","cell cycle process",9.37922933385705e-48
+"25","regulation of macromolecule biosynthetic process",6.52531213838591e-47
+"26","regulation of cellular biosynthetic process",3.12467080465822e-45
+"27","regulation of RNA biosynthetic process",4.56137995633653e-45
+"28","regulation of nucleic acid-templated transcription",4.56137995633653e-45
+"29","regulation of DNA-templated transcription",4.56137995633653e-45
+"30","nucleobase-containing compound biosynthetic process",1.94618171529348e-44
+"31","RNA biosynthetic process",1.97274359985921e-44
+"32","DNA-templated transcription",2.94718356027339e-44
+"33","nucleic acid-templated transcription",2.94718356027339e-44
+"34","regulation of biosynthetic process",4.22735949305222e-44
+"35","cellular nitrogen compound biosynthetic process",1.79411068155743e-42
+"36","metabolic process",1.6172059430662e-41
+"37","aromatic compound biosynthetic process",6.00932977165364e-41
+"38","mitotic cell cycle process",9.89679154874582e-41
+"39","mitotic cell cycle",3.46833182346583e-40
+"40","heterocycle biosynthetic process",3.71390907309944e-40
+"41","macromolecule biosynthetic process",1.16456181876658e-39
+"42","ncRNA metabolic process",2.15839593683898e-39
+"43","organic cyclic compound biosynthetic process",9.20558709321377e-39
+"44","DNA metabolic process",1.06393553254591e-38
+"45","ribonucleoprotein complex biogenesis",1.06795084088045e-37
+"46","ncRNA processing",2.39037678606872e-37
+"47","chromosome organization",3.65209264171653e-37
+"48","ribosome biogenesis",9.25850085088945e-37
+"49","mRNA metabolic process",1.85654765710874e-35
+"50","transcription by RNA polymerase II",1.59492714257145e-33
+"51","cellular component organization or biogenesis",3.03176977677941e-32
+"52","mitotic nuclear division",4.50413845125868e-32
+"53","regulation of transcription by RNA polymerase II",1.06780159214392e-31
+"54","cellular biosynthetic process",1.26847106601382e-31
+"55","nuclear division",2.9333260567804e-31
+"56","DNA damage response",5.63747242519264e-31
+"57","rRNA metabolic process",1.18429037653963e-29
+"58","regulation of cell cycle",1.48816262342213e-29
+"59","DNA repair",1.72202396770875e-29
+"60","cellular process",3.27289619981612e-29
+"61","rRNA processing",6.9632646605501e-29
+"62","organelle fission",1.08309992690619e-28
+"63","mRNA processing",6.85281610482558e-28
+"64","regulation of cell cycle process",4.029171892495e-27
+"65","organic substance biosynthetic process",9.35587610004778e-27
+"66","cell division",2.55809171850629e-26
+"67","nuclear chromosome segregation",4.3304276032106e-26
+"68","biosynthetic process",6.03483958482572e-26
+"69","chromosome segregation",1.19927284159955e-25
+"70","regulation of biological process",1.53918951176219e-25
+"71","regulation of cellular process",3.64581222001557e-25
+"72","regulation of mitotic cell cycle",2.01322566204468e-22
+"73","sister chromatid segregation",2.70242670964075e-22
+"74","mitotic sister chromatid segregation",4.24149794173792e-22
+"75","meiotic cell cycle",2.29164925962425e-21
+"76","biological regulation",7.37674213719294e-21
+"77","RNA splicing",9.04269746979695e-20
+"78","RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",1.04236283716596e-19
+"79","mRNA splicing, via spliceosome",1.04236283716596e-19
+"80","RNA splicing, via transesterification reactions",1.04236283716596e-19
+"81","negative regulation of macromolecule metabolic process",3.67943791634635e-19
+"82","meiotic cell cycle process",1.2291659615434e-18
+"83","positive regulation of macromolecule metabolic process",3.12357087642574e-18
+"84","negative regulation of metabolic process",5.89003793284622e-18
+"85","regulation of cell cycle phase transition",8.00273527132804e-18
+"86","cell cycle phase transition",9.22347527021548e-18
+"87","negative regulation of biological process",1.87455097042963e-17
+"88","negative regulation of cell cycle",2.16135217912451e-17
+"89","positive regulation of metabolic process",2.997392350024e-17
+"90","DNA replication",6.11918060674466e-17
+"91","chromatin organization",6.54672669628187e-17
+"92","histone modification",1.28545339974613e-16
+"93","positive regulation of nucleobase-containing compound metabolic process",2.67341625253015e-16
+"94","negative regulation of cell cycle process",3.92655903945652e-16
+"95","positive regulation of nitrogen compound metabolic process",1.21190856055153e-15
+"96","positive regulation of RNA metabolic process",1.45008846979257e-15
+"97","negative regulation of mitotic cell cycle",1.67700168955851e-15
+"98","positive regulation of cellular metabolic process",5.51600755280319e-15
+"99","double-strand break repair",8.69487602769397e-15
+"100","positive regulation of RNA biosynthetic process",1.04282910224103e-14
+"101","positive regulation of DNA-templated transcription",1.04282910224103e-14
+"102","positive regulation of nucleic acid-templated transcription",1.04282910224103e-14
+"103","positive regulation of macromolecule biosynthetic process",1.54973782464077e-14
+"104","negative regulation of cell cycle phase transition",1.68941918288258e-14
+"105","cellular component organization",1.82223384482984e-14
+"106","cell cycle checkpoint signaling",2.32383141345071e-14
+"107","histone acetylation",5.04387081104338e-14
+"108","DNA recombination",5.13266167645391e-14
+"109","positive regulation of biosynthetic process",1.21106727971996e-13
+"110","positive regulation of cellular biosynthetic process",1.21601347473331e-13
+"111","mitotic cell cycle checkpoint signaling",1.28131055815036e-13
+"112","peptidyl-lysine acetylation",1.5583054879553e-13
+"113","internal peptidyl-lysine acetylation",1.5583054879553e-13
+"114","internal protein amino acid acetylation",1.5583054879553e-13
+"115","peptidyl-lysine modification",1.65728189573349e-13
+"116","DNA-templated DNA replication",1.90515851418966e-13
+"117","cellular component biogenesis",2.30884885706196e-13
+"118","nuclear transport",3.16554114610463e-13
+"119","nucleocytoplasmic transport",3.16554114610463e-13
+"120","mitotic cell cycle phase transition",3.85664922376554e-13
+"121","negative regulation of gene expression",5.1023928460386e-13
+"122","RNA 3'-end processing",5.76792894201175e-13
+"123","regulation of mitotic cell cycle phase transition",7.29391455352869e-13
+"124","meiotic nuclear division",8.84785668365566e-13
+"125","meiosis I cell cycle process",9.01839859851054e-13
+"126","protein acetylation",1.08835515550937e-12
+"127","cellular response to stress",1.53084134269964e-12
+"128","negative regulation of cellular process",1.93187730684958e-12
+"129","positive regulation of biological process",2.81211878370631e-12
+"130","ribosomal small subunit biogenesis",6.21717987740724e-12
+"131","spindle organization",1.47944490046051e-11
+"132","ribosomal large subunit biogenesis",1.53856362578368e-11
+"133","positive regulation of cellular process",1.973680807497e-11
+"134","organelle organization",2.41534346252822e-11
+"135","chromatin remodeling",4.02215510121759e-11
+"136","meiotic chromosome segregation",6.40350500320952e-11
+"137","regulation of nuclear division",2.18611949283658e-10
+"138","regulation of mitotic nuclear division",2.61904903460543e-10
+"139","positive regulation of transcription by RNA polymerase II",4.33450321896072e-10
+"140","microtubule cytoskeleton organization involved in mitosis",5.40128533563467e-10
+"141","RNA modification",7.48403253952919e-10
+"142","double-strand break repair via homologous recombination",1.05839054788312e-09
+"143","recombinational repair",1.05839054788312e-09
+"144","mitotic spindle organization",1.18250989713103e-09
+"145","nuclear export",1.25452256338394e-09
+"146","methylation",1.75439606886151e-09
+"147","negative regulation of mitotic cell cycle phase transition",1.77487996159593e-09
+"148","maturation of SSU-rRNA",3.26661841926531e-09
+"149","negative regulation of cellular metabolic process",3.75263250627414e-09
+"150","mRNA 3'-end processing",4.64788403501519e-09
+"151","DNA duplex unwinding",4.90298108386894e-09
+"152","DNA geometric change",4.90298108386894e-09
+"153","mitotic chromosome condensation",6.64836099637872e-09
+"154","mRNA transport",6.72134587526883e-09
+"155","RNA localization",6.92503006861739e-09
+"156","epigenetic regulation of gene expression",9.45474317143109e-09
+"157","regulation of DNA metabolic process",1.11789328137964e-08
+"158","non-membrane-bounded organelle assembly",1.34393419206309e-08
+"159","cellular process involved in reproduction in multicellular organism",1.60168882194101e-08
+"160","RNA export from nucleus",1.63878576252881e-08
+"161","DNA replication initiation",1.76706633711157e-08
+"162","nucleic acid phosphodiester bond hydrolysis",1.78783998752196e-08
+"163","regulation of mRNA metabolic process",2.15262526184591e-08
+"164","chromosome localization",2.34691861059636e-08
+"165","chromosome condensation",2.38117928749508e-08
+"166","DNA integrity checkpoint signaling",2.8413342943326e-08
+"167","tRNA metabolic process",3.08936744566128e-08
+"168","female meiotic nuclear division",3.40837039336066e-08
+"169","protein acylation",4.56236921316644e-08
+"170","macromolecule methylation",5.42398228547327e-08
+"171","DNA conformation change",5.65776583742659e-08
+"172","negative regulation of macromolecule biosynthetic process",7.75684741272064e-08
+"173","chromosome separation",8.98915315119729e-08
+"174","regulation of organelle organization",9.01368595929183e-08
+"175","establishment of RNA localization",1.17764634014621e-07
+"176","RNA phosphodiester bond hydrolysis",1.40016268002942e-07
+"177","nucleic acid transport",1.65026902989047e-07
+"178","RNA transport",1.65026902989047e-07
+"179","RNA catabolic process",1.72530392249569e-07
+"180","mitotic cell cycle, embryonic",2.19100499141138e-07
+"181","centrosome cycle",2.48268702926271e-07
+"182","mitotic DNA integrity checkpoint signaling",2.85339575784264e-07
+"183","negative regulation of nucleobase-containing compound metabolic process",3.21047608042131e-07
+"184","gamete generation",3.27761512698081e-07
+"185","DNA damage checkpoint signaling",3.91043035914564e-07
+"186","peptidyl-amino acid modification",4.05526710816789e-07
+"187","cytokinesis",4.07929201145082e-07
+"188","reproductive process",4.44049833315712e-07
+"189","female gamete generation",4.68173030859254e-07
+"190","protein localization to nucleus",5.4547733547357e-07
+"191","microtubule cytoskeleton organization",5.84499065279787e-07
+"192","spindle assembly",5.95334135617069e-07
+"193","negative regulation of cellular biosynthetic process",7.00594604457458e-07
+"194","macromolecule modification",7.07622596694919e-07
+"195","microtubule organizing center organization",8.75299797429355e-07
+"196","alternative mRNA splicing, via spliceosome",9.12710294412105e-07
+"197","negative regulation of chromosome organization",1.01683400603451e-06
+"198","protein import into nucleus",1.08321778671959e-06
+"199","regulation of cell division",1.10838073886187e-06
+"200","regulation of RNA splicing",1.13961219214129e-06
+"201","import into nucleus",1.1844419379304e-06
+"202","signal transduction in response to DNA damage",1.34410424115223e-06
+"203","meiosis I",1.6959137369381e-06
+"204","regulation of alternative mRNA splicing, via spliceosome",1.81652853373111e-06
+"205","negative regulation of biosynthetic process",1.83101295271508e-06
+"206","mitotic DNA damage checkpoint signaling",2.08009653589144e-06
+"207","regulation of DNA replication",2.10432128262556e-06
+"208","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",2.19260223402991e-06
+"209","mitotic sister chromatid separation",2.68828921830874e-06
+"210","negative regulation of nitrogen compound metabolic process",3.1904285764525e-06
+"211","cytoskeleton-dependent cytokinesis",3.27157347577753e-06
+"212","negative regulation of nucleic acid-templated transcription",3.59138884941466e-06
+"213","negative regulation of RNA biosynthetic process",3.59138884941466e-06
+"214","negative regulation of DNA-templated transcription",3.59138884941466e-06
+"215","negative regulation of RNA metabolic process",4.01771698820833e-06
+"216","multicellular organismal reproductive process",4.86203480030213e-06
+"217","regulation of chromosome organization",5.66756340523167e-06
+"218","chromosome organization involved in meiotic cell cycle",5.84546764484687e-06
+"219","regulation of mRNA splicing, via spliceosome",6.68585954783675e-06
+"220","spindle elongation",8.32736043751119e-06
+"221","establishment of organelle localization",1.04027492152998e-05
+"222","nucleobase-containing compound transport",1.04266332748705e-05
+"223","developmental process involved in reproduction",1.13304161317103e-05
+"224","tRNA modification",1.24425504592842e-05
+"225","DNA biosynthetic process",1.44354508398485e-05
+"226","negative regulation of gene expression, epigenetic",1.69722787550295e-05
+"227","regulation of chromosome segregation",1.81700941938369e-05
+"228","regulation of cytokinesis",2.03670836272608e-05
+"229","regulation of mRNA processing",2.58094252297484e-05
+"230","asymmetric cell division",2.62438949755613e-05
+"231","mRNA catabolic process",2.71390496406266e-05
+"232","regulation of mitotic sister chromatid segregation",2.8608370875431e-05
+"233","regulation of protein kinase activity",2.9272284853193e-05
+"234","histone H4 acetylation",3.19804140654162e-05
+"235","microtubule-based process",3.34643862462105e-05
+"236","syncytial blastoderm mitotic cell cycle",3.59440714181592e-05
+"237","regulation of sister chromatid segregation",3.68029405945258e-05
+"238","transcription initiation at RNA polymerase II promoter",3.76612779196814e-05
+"239","RNA methylation",3.85551143255838e-05
+"240","spindle midzone assembly",4.4487541993681e-05
+"241","cell cycle comprising mitosis without cytokinesis",4.55357006877932e-05
+"242","cell population proliferation",5.00066054208312e-05
+"243","mitotic cytokinesis",5.9663400466868e-05
+"244","centrosome duplication",6.39391932764891e-05
+"245","DNA amplification",6.87114342529754e-05
+"246","negative regulation of nuclear division",7.03647106120749e-05
+"247","heterochromatin organization",7.44735276614565e-05
+"248","male meiotic nuclear division",9.50784886162397e-05
+"249","sister chromatid cohesion",9.90571485129682e-05
+"250","negative regulation of mitotic nuclear division",0.000114763448776322
+"251","regulation of transferase activity",0.000120248917404543
+"252","eggshell chorion gene amplification",0.00012851569149311
+"253","ribosome localization",0.000139012183408878
+"254","ribosomal subunit export from nucleus",0.000139012183408878
+"255","DNA unwinding involved in DNA replication",0.000164602336400563
+"256","snRNA metabolic process",0.000183374538333292
+"257","cell cycle DNA replication",0.000187159951604339
+"258","organelle localization",0.000202280229585655
+"259","regulation of protein serine/threonine kinase activity",0.000237395185551788
+"260","regulation of cellular component organization",0.000241577478925664
+"261","metaphase plate congression",0.000249096307482423
+"262","establishment of chromosome localization",0.000249096307482423
+"263","centriole assembly",0.000253638532803916
+"264","regulation of cell cycle G2/M phase transition",0.00025374492764613
+"265","regulation of G2/M transition of mitotic cell cycle",0.00025374492764613
+"266","tRNA processing",0.000255963563476448
+"267","metaphase/anaphase transition of mitotic cell cycle",0.000267523440886312
+"268","embryo development",0.000279519871140621
+"269","sexual reproduction",0.000309706523531587
+"270","positive regulation of cell cycle",0.000312484341018761
+"271","mitotic spindle assembly checkpoint signaling",0.000322986801923415
+"272","negative regulation of mitotic sister chromatid separation",0.000322986801923415
+"273","negative regulation of mitotic sister chromatid segregation",0.000322986801923415
+"274","spindle checkpoint signaling",0.000322986801923415
+"275","negative regulation of mitotic metaphase/anaphase transition",0.000322986801923415
+"276","spindle assembly checkpoint signaling",0.000322986801923415
+"277","mitotic spindle checkpoint signaling",0.000322986801923415
+"278","negative regulation of sister chromatid segregation",0.000322986801923415
+"279","mRNA export from nucleus",0.000333012852805007
+"280","homologous recombination",0.000357329497843374
+"281","heterochromatin formation",0.00037634953467074
+"282","spindle assembly involved in female meiosis",0.000402628383520236
+"283","regulation of cyclin-dependent protein kinase activity",0.00041313818827712
+"284","regulation of cyclin-dependent protein serine/threonine kinase activity",0.00041313818827712
+"285","response to stress",0.000439572553379541
+"286","oogenesis",0.000458204756317368
+"287","metaphase/anaphase transition of cell cycle",0.000460463971576692
+"288","RNA phosphodiester bond hydrolysis, endonucleolytic",0.000478792838552368
+"289","neural precursor cell proliferation",0.000520669895375627
+"290","developmental process",0.000533204441014254
+"291","G2/M transition of mitotic cell cycle",0.000567173190543529
+"292","meiotic spindle assembly",0.000574911266207465
+"293","neuroblast proliferation",0.000574971772802569
+"294","ribonucleoprotein complex assembly",0.000577829545063034
+"295","regulation of DNA-templated DNA replication initiation",0.000602008009447369
+"296","negative regulation of chromosome segregation",0.000616271869442215
+"297","negative regulation of metaphase/anaphase transition of cell cycle",0.000616271869442215
+"298","negative regulation of chromosome separation",0.000616271869442215
+"299","nucleobase-containing compound catabolic process",0.000629751194568627
+"300","maturation of 5.8S rRNA",0.000740341481989153
+"301","double-strand break repair via synthesis-dependent strand annealing",0.000831469779544784
+"302","centriole replication",0.000843497084820161
+"303","regulation of protein phosphorylation",0.000901336992342704
+"304","RNA polyadenylation",0.000959691842242812
+"305","exit from mitosis",0.000968336278045703
+"306","cell cycle G2/M phase transition",0.00100270153526699
+"307","cytoskeleton organization",0.00110060667539751
+"308","tRNA catabolic process",0.00112180961876643
+"309","ribonucleoprotein complex subunit organization",0.00112345158051646
+"310","mRNA polyadenylation",0.00114438241266395
+"311","neuroblast development",0.00121738881072817
+"312","reciprocal homologous recombination",0.00125529432600236
+"313","reciprocal meiotic recombination",0.00125529432600236
+"314","germ cell development",0.00138835814378865
+"315","L-leucine import across plasma membrane",0.0013905552021909
+"316","leucine import across plasma membrane",0.0013905552021909
+"317","leucine transport",0.0013905552021909
+"318","regulation of mitotic sister chromatid separation",0.00141003263802027
+"319","anatomical structure development",0.00141953783554615
+"320","DNA-templated transcription initiation",0.00151595843955883
+"321","negative regulation of G2/M transition of mitotic cell cycle",0.00156034069766951
+"322","negative regulation of cell cycle G2/M phase transition",0.00156034069766951
+"323","regulation of protein modification process",0.00170820101575978
+"324","amino acid import across plasma membrane",0.00171500646814244
+"325","maturation of LSU-rRNA",0.00177129833030615
+"326","aromatic compound catabolic process",0.00187040960987727
+"327","oocyte karyosome formation",0.0020038088425198
+"328","karyosome formation",0.0020038088425198
+"329","nuclear pore organization",0.00204044647336682
+"330","regulation of chromosome separation",0.00204809828778934
+"331","regulation of DNA-templated DNA replication",0.00214165450797474
+"332","post-transcriptional regulation of gene expression",0.00217339773115231
+"333","centrosome separation",0.00238146354709647
+"334","mitotic recombination",0.00250122025791583
+"335","nuclear DNA replication",0.00266851396803957
+"336","ncRNA catabolic process",0.0029879479604348
+"337","mitotic G2 DNA damage checkpoint signaling",0.00314684015154124
+"338","cellular developmental process",0.00347641707996174
+"339","regulation of kinase activity",0.00353327695401487
+"340","mitotic spindle assembly",0.00354691903724307
+"341","heterocycle catabolic process",0.00369532626304307
+"342","cellular nitrogen compound catabolic process",0.00369532626304307
+"343","cytokinetic process",0.00383759108893891
+"344","meiotic spindle organization",0.00409197345036494
+"345","regulation of mitotic metaphase/anaphase transition",0.0041073939998651
+"346","maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.00413608821760255
+"347","organic cyclic compound catabolic process",0.0041809542336551
+"348","male meiosis chromosome segregation",0.00476891335084471
+"349","branched-chain amino acid transport",0.0055196961848434
+"350","regulation of metaphase/anaphase transition of cell cycle",0.0056858906975619
+"351","maintenance of DNA repeat elements",0.00576053791322534
+"352","telomere maintenance",0.00577519345045272
+"353","ciliary basal body organization",0.00605815808464535
+"354","actomyosin contractile ring assembly",0.00611355111776025
+"355","histone H4-K16 acetylation",0.00626556160763297
+"356","telomere organization",0.00643323818108118
+"357","mitotic centrosome separation",0.00700653154571665
+"358","double-strand break repair via break-induced replication",0.00706781158849929
+"359","histone methylation",0.00707494116108195
+"360","asymmetric neuroblast division",0.00733934227200927
+"361","cleavage involved in rRNA processing",0.00796272941190243
+"362","central nervous system development",0.00814234161242806
+"363","cell fate determination",0.00818248508962549
+"364","regulation of exit from mitosis",0.00947806318057934
+"365","attachment of spindle microtubules to kinetochore",0.0095865068351481
+"366","neuroblast differentiation",0.00959957985612232
+"367","nucleus organization",0.00990331084526984
+"368","mitotic spindle elongation",0.0101051343035438
+"369","regulation of nucleocytoplasmic transport",0.0102218045574736
+"370","meiotic cytokinesis",0.0103250345996484
+"371","assembly of actomyosin apparatus involved in cytokinesis",0.0103701393865768
+"372","pyrimidine nucleoside triphosphate biosynthetic process",0.0105941100772031
+"373","DNA repair-dependent chromatin remodeling",0.0106582318498673
+"374","mitotic spindle midzone assembly",0.0107354919701591
+"375","rRNA catabolic process",0.0109183594599667
+"376","mitotic G2/M transition checkpoint",0.010948858319051
+"377","mRNA modification",0.0116055360970489
+"378","positive regulation of mitotic cell cycle",0.0121515469755442
+"379","kinetochore assembly",0.0124442774766183
+"380","DNA replication checkpoint signaling",0.0130880115206061
+"381","protein-containing complex organization",0.0137283522164175
+"382","protein-DNA complex subunit organization",0.0138397381233441
+"383","pre-replicative complex assembly involved in cell cycle DNA replication",0.0143412683496904
+"384","pre-replicative complex assembly involved in nuclear cell cycle DNA replication",0.0143412683496904
+"385","pre-replicative complex assembly",0.0143412683496904
+"386","ribosomal large subunit assembly",0.0146825812759431
+"387","neuroblast division",0.0147556988639886
+"388","pseudouridine synthesis",0.0153521647308734
+"389","female meiosis chromosome segregation",0.0161972619416494
+"390","reproduction",0.016278029992957
+"391","cell differentiation",0.0164040471260518
+"392","protein modification process",0.016667897285555
+"393","histone H3 acetylation",0.0175926011316329
+"394","dosage compensation",0.0186223827112191
+"395","organelle assembly",0.0186292155304236
+"396","sex determination",0.0188311356410223
+"397","snRNA processing",0.0196166055854595
+"398","meiotic chromosome condensation",0.0198271734056604
+"399","peptidyl-lysine methylation",0.0198436469971697
+"400","positive regulation of gene expression",0.0202259144459091
+"401","regulation of mitotic recombination",0.0213069604895982
+"402","ribosomal large subunit export from nucleus",0.021510311784821
+"403","kinetochore organization",0.0254242577701572
+"404","regulation of protein metabolic process",0.0263607298273262
+"405","mitotic intra-S DNA damage checkpoint signaling",0.0278585804729678
+"406","histone lysine methylation",0.0287522298605672
+"407","stem cell division",0.0298287377822412
+"408","actomyosin contractile ring organization",0.0301286327839695
+"409","multicellular organism development",0.030808126439521
+"410","pyrimidine nucleoside triphosphate metabolic process",0.0337114501027526
+"411","response to ionizing radiation",0.034223035623972
+"412","nucleoside monophosphate biosynthetic process",0.0343787960614892
+"413","regulation of DNA-templated transcription elongation",0.0348158483232579
+"414","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.0349079986442219
+"415","protein alkylation",0.0357002066481949
+"416","protein methylation",0.0357002066481949
+"417","female meiosis I",0.036674950544482
+"418","animal organ development",0.0374553111683631
+"419","DNA-templated transcription elongation",0.0406387349907009
+"420","cell development",0.0406525557464933
+"421","protein localization to nuclear envelope",0.0408653139876074
+"422","mitotic metaphase plate congression",0.042885657726235
+"423","snRNA 3'-end processing",0.0447849131577242
+"424","regulation of receptor signaling pathway via STAT",0.0458944128700014
+"425","regulation of receptor signaling pathway via JAK-STAT",0.0458944128700014
+"426","ribonucleoside monophosphate biosynthetic process",0.0464759643068943
+"427","pyrimidine nucleotide biosynthetic process",0.0467840979755418
+"428","pyrimidine nucleotide metabolic process",0.0467840979755418
+"429","translation",0.0490279909515701
+"430","cellular response to organonitrogen compound",0.0490995823573804
+"431","negative regulation of transferase activity",0.0496071544822018

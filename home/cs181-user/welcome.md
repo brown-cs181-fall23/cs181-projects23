@@ -1,0 +1,1 @@
+Welcome to your user directory for CS181! You can put all of your course content and work here throughout the semester. 

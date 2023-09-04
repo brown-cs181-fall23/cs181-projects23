@@ -1,0 +1,6 @@
+hmmlearn
+numpy
+pybedtools
+biopython
+pandas
+graphviz

@@ -1,0 +1,7 @@
+"","id","condition","replicate"
+"1","control_1","control",1
+"2","control_2","control",2
+"3","control_3","control",3
+"4","RNAi_1","experimental",1
+"5","RNAi_2","experimental",2
+"6","RNAi_3","experimental",3
