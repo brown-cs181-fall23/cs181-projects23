@@ -5,9 +5,6 @@ options(Ncpus = parallel::detectCores())
 # can you comment out any of the packages you think are not necessary
 install.packages('tidyverse', repos = "http://cran.us.r-project.org")
 install.packages('devtools', repos = "http://cran.us.r-project.org")
-install.packages('optparse', repos = "http://cran.us.r-project.org")
-install.packages('pheatmap', repos = "http://cran.us.r-project.org")
-install.packages('VennDiagram', repos = "http://cran.us.r-project.org")
 install.packages('liqueueR', repos = "http://cran.us.r-project.org")
 
 options(BioC_mirror = "http://bioconductor.org", repos = "http://cran.r-project.org")
@@ -19,8 +16,8 @@ BiocManager::install()
 
 BiocManager::install("DESeq2", silent = TRUE)
 BiocManager::install("EnhancedVolcano", silent = TRUE)
-BiocManager::install("GenomicRanges", silent = TRUE)
 BiocManager::install("gprofiler2", silent = TRUE)
+BiocManager::install("TxDb.Dmelanogaster.UCSC.dm6.ensGene", silent = TRUE)
 
 # Special Load-In ChIPseeker Dependencies
 library(devtools)

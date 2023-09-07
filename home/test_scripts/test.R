@@ -4,14 +4,12 @@
 packages_to_check <- c(
   "tidyverse",
   "devtools",
-  "optparse",
-  "pheatmap",
   "liqueueR",
-  "VennDiagram",
   "DESeq2",
   "EnhancedVolcano",
   "GenomicRanges",
   "gprofiler2",
+  "TxDb.Dmelanogaster.UCSC.dm6.ensGene",
   "ChIPseeker"
 )
 # Create a function to check if a package is installed and loadable
