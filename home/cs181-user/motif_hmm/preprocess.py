@@ -24,6 +24,14 @@ def gen_seq(slength: int, num_seq: int) -> list:
         neg.append(rstring)
     return neg
 
+def gen_negatives(length: int, num_negatives: int) -> list:
+    """
+    Generates a set of <num_negative> negative samples with <length> characters each.
+    Input: length (int), num_negatives (int)
+    Output: list[str]
+    """
+    # TODO (Task 1a): Generate negatives for test sets.
+    pass
 
 def read_motif_file(fname: str) -> list:
     """
@@ -32,13 +40,8 @@ def read_motif_file(fname: str) -> list:
     Output: list[str]
     """
     
-    # TODO: Read motif file into a list of sequences.
+    # TODO (Task 1b): Read motif file into a list of sequences.
     pass
-
-def gen_negatives(length: int, num_negatives: int) -> list:
-    # TODO: Generate negatives for test sets.
-    pass
-
 
 def preprocess_motif(motifs: list[str], motif_files: list[str]) -> None:
     """
