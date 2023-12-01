@@ -17,8 +17,8 @@ def train_hmm(motif, motif_pickle):
     # TODO (Task 2a): Set up HMM
     states = ["background", "motif"]
 
-    # Do NOT change the random state. There will be other parameters to this function.
-    model = hmm.CategoricalHMM(random_state=1)
+    # Do NOT change the random state or init_params initialization. There will be other parameters to this function.
+    model = hmm.CategoricalHMM(random_state=1, init_params="")
 
     # TODO (Tasks 2b and 2c): Prepare Data for Training and Fit HMM
 
