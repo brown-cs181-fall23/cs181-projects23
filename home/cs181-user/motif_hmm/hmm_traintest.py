@@ -14,15 +14,13 @@ def train_hmm(motif, motif_pickle):
     with open(motif_pickle, "rb") as f:
         motif_dict = pickle.load(f)
 
-    # TODO: Set up HMM
+    # TODO (Task 2a): Set up HMM
     states = ["background", "motif"]
 
     # Do NOT change the random state. There will be other parameters to this function.
     model = hmm.CategoricalHMM(random_state=1)
 
-    # TODO: Prepare Data for Training
-
-    # TODO: Fit HMM
+    # TODO (Tasks 2b and 2c): Prepare Data for Training and Fit HMM
 
     return model
 
@@ -42,18 +40,16 @@ def test_hmm(model, data, ground_truths=None):
     Output: float
     """
 
-    # TODO: Prepare Data for Decoding
-
-    # TODO: Extract most likely sequence of states for each observation
+    # TODO (Task 3a): Prepare data for decoding and extract most likely sequence of states for each observation
     _, states_sequence = model.decode()
 
-    # TODO: Currently the States Are a 1D array...reshape!
+    # TODO (Task 3b): Currently the states are a 1D array...reshape!
 
-    # TODO: For each sequence, use the predict function to make a list of 1s and 0s.
+    # TODO (Task 3c): For each sequence, use the predict function to make a list of 1s and 0s.
     # 1: sequence containing a motif, 0: sequence missing a motif.
     test_results = []
 
-    # TODO: Determine Model Performance (hint: np.sum())
+    # TODO (Task 3d): Determine Model Performance (hint: np.sum())
     test_results = np.asarray(test_results)
     if ground_truths is not None:
         # Percent of obersvations that match ground truth labels
