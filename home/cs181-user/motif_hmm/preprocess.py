@@ -30,6 +30,7 @@ def gen_negatives(length: int, num_negatives: int) -> list:
     Input: length (int), num_negatives (int)
     Output: list[str]
     """
+    
     # TODO (Task 1a): Generate negatives for test sets.
     pass
 
