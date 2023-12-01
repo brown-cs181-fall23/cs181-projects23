@@ -20,7 +20,7 @@ mystery_bag = "data/mystery.pkl"
 # Train HMM
 trained_models = {}  # key: motif, value: trained HMM
 for motif in motifs:
-    # TODO: fill in the training step.
+    # TODO (Task 2d): fill in the training step.
     pass
 
 # Test HMM
@@ -32,7 +32,7 @@ for motif, result in zip(motifs, results):
 
 print()
 
-# UNCOMMENT IN FINAL STEP (exploring mystery bag data)
+# UNCOMMENT IN FINAL STEP (exploring mystery bag data, Task 4)
 # mystery_results = test_hmms(trained_models, mystery_bag, False)
 
 # print("Results for mystery data.")
